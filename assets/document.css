@@ -94,6 +94,7 @@
 }
 .strength-red{
     position: absolute;
+    top: 94px;
     left: 52px;
     z-index: 1;
 }
