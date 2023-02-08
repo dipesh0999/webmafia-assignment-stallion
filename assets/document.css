@@ -240,6 +240,9 @@
     text-align: center;
     margin-left: 100px;
 }
+.manf-img{
+    max-width: 100%;
+}
 .brands{
     background-color: rgba(0, 0, 0, .9);
     padding: 50px 0px;
